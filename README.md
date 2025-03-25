@@ -2,58 +2,74 @@
   <img height="200" width="100%" src="https://github.com/raulmoto/Ingenieria_Poo/blob/main/java.jpg" />
 </div>
 
+---
+
+# Sobre mí
+
+Soy Técnico Superior en ASIR, Técnico Superior en DAM y actualmente curso Ingeniería Informática. Mi pasión por la tecnología y el desarrollo me lleva a explorar nuevas herramientas y lenguajes de programación, siempre buscando innovar y mejorar mis habilidades.
 
 ---
 
-## 👨‍💻 Sobre mí
+## 📚 Formación
 
-Soy un **Técnico superior en ASIR**, **Técnico superior en DAM**, y actualmente cursando **Ingeniería informática**. Me apasiona la programación y la resolución de problemas, y estoy siempre en busca de nuevas tecnologías y desafíos.
-
----
-
-## 🧠 Habilidades
-
-- Creatividad 💡
-- Innovación 🚀
-- Resolución de problemas 🧩
-- Trabajo en equipo 🤝
-- Curiosidad tecnológica 🤖
-- Ética profesional 👨‍💼
+- **Técnico superior en ASIR**
+- **Técnico superior en DAM**
+- **Ingeniería informática (cursando)**
 
 ---
 
-## 💻 Tecnologías
+## 💻 Habilidades
 
-### Lenguajes de programación
-- ![Java](https://img.shields.io/badge/Java-fb503b?style=flat&logo=java&logoColor=white) 
-- ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-
-### Frameworks
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-- ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-### Bases de datos
-- ![MySQL](https://img.shields.io/badge/MySQL-00618B?style=flat&logo=mysql&logoColor=white)
-- ![NoSQL](https://img.shields.io/badge/NoSQL-4A6D7C?style=flat&logo=nosql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- **Creatividad**
+- **Innovación**
+- **Resolución de problemas**
+- **Trabajo en equipo**
+- **Curiosidad por las tecnologías**
+- **Ética profesional**
 
 ---
 
-## 🎶 ¡Pero también soy humano!
+## 🔧 Tecnologías y Lenguajes
 
-Me encanta la música 🎧, y tengo un gusto variado. Disfruto de artistas como:
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-%23FF0000?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-%23000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+</div>
 
-- Tyga 🎤
-- Lil Wayne 🎶
-- Drake 🎵
-- Eminem 🎧
+---
 
-¡La música es una gran fuente de inspiración y energía para mí!
+## 🛠️ Frameworks y Herramientas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-%2343853B?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React_Native-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+</div>
+
+---
+
+## 🗃️ Bases de Datos
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%2304A65C?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/NoSQL-%234A2F24?style=for-the-badge&logo=nosql&logoColor=white" alt="NoSQL" />
+</div>
+
+---
+
+## 🎧 ¿Y fuera de la programación?
+
+¡Jaja, pero también soy humano! Me encanta la música 🎶. Mis artistas favoritos son:
+
+- **Tyga**
+- **Lil Wayne**
+- **Drake**
+- **Eminem**
 
 ---
 
@@ -66,3 +82,6 @@ Me encanta la música 🎧, y tengo un gusto variado. Disfruto de artistas como:
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
 </div>
+
+---
+

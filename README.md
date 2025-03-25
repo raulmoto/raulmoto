@@ -68,20 +68,13 @@ Soy Técnico Superior en ASIR, Técnico Superior en DAM y actualmente curso Inge
 
 - **Tyga**
 - **Lil Wayne**
-- **Drake**
+- **kendrick lamar**
 - **Eminem**
+- **Snoop Dogg**
 
 ---
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts" />
-</div>
 
----
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
-</div>
 
 ---
 

@@ -1,12 +1,13 @@
 <div align="center">
-  <img height="200"   src="https://github.com/raulmoto/Ingenieria_Poo/blob/main/java3.jpg" />
+  <img height="200" src="https://github.com/raulmoto/Ingenieria_Poo/blob/main/java3.jpg" />
 </div>
 
 ---
 
 # Sobre mí
 
-Soy Técnico Superior en ASIR, Técnico Superior en DAM y actualmente curso Ingeniería Informática. Mi pasión por la tecnología y el desarrollo me lleva a explorar nuevas herramientas y lenguajes de programación, siempre buscando innovar y mejorar mis habilidades.
+Soy Técnico Superior en ASIR, Técnico Superior en DAM y actualmente curso Ingeniería Informática.  
+Mi pasión por la tecnología y el desarrollo me lleva a explorar nuevas herramientas y lenguajes de programación, siempre buscando innovar y mejorar mis habilidades.
 
 ---
 
@@ -48,6 +49,8 @@ Soy Técnico Superior en ASIR, Técnico Superior en DAM y actualmente curso Inge
   <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/React_Native-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/jQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/AJAX-%23000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="AJAX" />
 </div>
 
 ---
@@ -64,17 +67,14 @@ Soy Técnico Superior en ASIR, Técnico Superior en DAM y actualmente curso Inge
 
 ## 🎧 ¿Y fuera de la programación?
 
-¡Jaja, pero también soy humano! Me encanta la música 🎶. Mis artistas favoritos son:
+¡Jaja, pero también soy humano! Me encanta la música 🎶  
+Mis artistas favoritos son:
 
 - **Tyga**
 - **Lil Wayne**
-- **kendrick lamar**
+- **Kendrick Lamar**
 - **Eminem**
 - **Snoop Dogg**
-
----
-
-
 
 ---
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/raulmoto/miMusica/blob/main/miLogo.png" />
+  <img height="200" src="https://github.com/raulmoto/miMusica/blob/main/logo2.png" />
 </div>
 
 ---

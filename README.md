@@ -4,77 +4,120 @@
 
 ---
 
-# Sobre mí
+# 👋 Hola, soy Raúl
 
-Soy Técnico Superior en ASIR, Técnico Superior en DAM y actualmente curso Ingeniería Informática.  
-Mi pasión por la tecnología y el desarrollo me lleva a explorar nuevas herramientas y lenguajes de programación, siempre buscando innovar y mejorar mis habilidades.
+> *"De bachiller en ciencias a futuro ingeniero informático. De cometer errores a construir soluciones. Este es mi viaje."*
 
----
+Mi historia no es de perfección, sino de evolución.  
+Fui arrogante, no escuchaba. Perdí en competiciones. Hice malos proyectos.  
+Pero cada tropiezo fue una lección. Hoy tengo una mentalidad analítica, trabajo con precisión y pienso en los riesgos antes de programar una sola línea.
 
-## 📚 Formación
-
-- **Técnico superior en ASIR**
-- **Técnico superior en DAM**
-- **Ingeniería informática (cursando)**
+Me gusta la informática, pero amo la ciencia. Sueño con dejar una huella en el desarrollo tecnológico como lo hicieron otros antes que yo.
 
 ---
 
-## 💻 Habilidades
+## 📈 Mi evolución en tecnología
 
-- **Creatividad**
-- **Innovación**
-- **Resolución de problemas**
-- **Trabajo en equipo**
-- **Curiosidad por las tecnologías**
-- **Ética profesional**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/raulmoto/raulmoto/main/assets/grafico_evolucion_tecnologica.svg" alt="Evolución tecnológica de Raúl" style="max-width: 100%;" />
+</div>
+
+> _De Bachiller en Ciencias → FP en Informática → Ingeniería Informática → Futuro profesional tecnológico_
+
+---
+
+## 🎯 ¿Qué puedo hacer por ti?
+
+- Resolver problemas reales con tecnología funcional.
+- Desarrollar software eficiente y mantenible.
+- Optimizar procesos manuales mediante automatización.
+- Diseñar interfaces intuitivas con enfoque en experiencia de usuario.
+- Construir desde apps móviles hasta proyectos backend complejos.
 
 ---
 
 ## 🔧 Tecnologías y Lenguajes
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-%23FF0000?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Python-%23000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-%23FF0000?style=for-the-badge&logo=java&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Python-%23000?style=for-the-badge&logo=python&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35"/>
+  <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white" height="35"/>
 </div>
 
 ---
 
-## 🛠️ Frameworks y Herramientas
+## 🚀 Frameworks y herramientas que domino
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-%2343853B?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React_Native-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
-  <img src="https://img.shields.io/badge/jQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/AJAX-%23000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="AJAX" />
+  <img src="https://img.shields.io/badge/Node.js-%2343853B?style=for-the-badge&logo=node.js&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/React_Native-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/jQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/AJAX-%23000000?style=for-the-badge&logo=fastapi&logoColor=white" height="30"/>
 </div>
 
 ---
 
-## 🗃️ Bases de Datos
+## 🧠 Bases de datos
 
 <div align="center">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%2304A65C?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/NoSQL-%234A2F24?style=for-the-badge&logo=nosql&logoColor=white" alt="NoSQL" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2304A65C?style=for-the-badge&logo=mongodb&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/NoSQL-%234A2F24?style=for-the-badge&logo=nosql&logoColor=white" height="30"/>
 </div>
 
 ---
 
-## 🎧 ¿Y fuera de la programación?
+## 🛠 Proyectos que me han formado
 
-¡Jaja, pero también soy humano! Me encanta la música 🎶  
-Mis artistas favoritos son:
+> Cada uno representa un reto que me obligó a aprender, fallar y crecer:
 
-- **Tyga**
-- **Lil Wayne**
-- **Kendrick Lamar**
-- **Eminem**
-- **Snoop Dogg**
+- 🔐 **Sistema de gestión de usuarios en C** (manejo de memoria, estructuras y lógica algorítmica)
+- 🎮 **Juego multijugador con Babylon.js + Colyseus** (renderizado 3D + sincronización en red)
+- 📱 **App móvil estilo Tinder con React Native** (interacción + pagos + geolocalización)
+- 🧩 **Sistemas expertos en Java** (conocimiento basado en reglas y estadística)
 
 ---
 
+## 👨‍🚀 Soft Skills
+
+- ✅ Creatividad enfocada en soluciones reales
+- ✅ Madurez profesional desarrollada con experiencia y autocrítica
+- ✅ Trabajo en equipo, pero con enfoque en **coordinación real**
+- ✅ Ética de trabajo firme: si se empieza, se termina bien
+- ✅ Curiosidad científica y técnica, siempre explorando
+
+---
+
+## 🎧 Más allá del código
+
+La música es mi escape. Mis favoritos:
+
+> 🎤 Tyga · Eminem · Kendrick Lamar · Lil Wayne · Snoop Dogg
+
+En mis tiempos libres, me reto con proyectos personales:  
+resolver algoritmos, mejorar UIs, o crear juegos pequeños.
+
+---
+
+## 📚 Formación
+
+- 🎓 **Bachiller en Ciencias**
+- 💾 **Técnico Superior en ASIR**
+- 💻 **Técnico Superior en DAM**
+- 🧠 **Grado en Ingeniería Informática** (en curso)
+
+---
+
+## ✨ ¿Colaboramos?
+
+Si estás buscando a alguien que no solo escriba código, sino que **construya soluciones**,  
+te invito a **explorar mis repositorios** o a enviarme un mensaje.  
+Estoy listo para el siguiente reto.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250"/>
+</div>

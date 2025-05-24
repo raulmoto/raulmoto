@@ -19,7 +19,7 @@ Me gusta la informática, pero amo la ciencia. Sueño con dejar una huella en el
 ## 📈 Mi evolución en tecnología
 
 <div align="center">
-  <img src="https://github.com/raulmoto/miMusica/blob/main/evolucion_raul_actualizado.png" alt="Evolución tecnológica de Raúl" style="max-width: 100%;" />
+  <img src="https://github.com/raulmoto/IngenieriaMP/blob/main/evolucion_raul_actualizado.png alt="Evolución tecnológica de Raúl" style="max-width: 100%;" />
 </div>
 
 > _De Bachiller en Ciencias → FP en Informática → Ingeniería Informática → Futuro profesional tecnológico_
